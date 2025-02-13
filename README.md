@@ -1,2 +1,2 @@
 # scalable-computing-projects
-some project excercise alongside the course
+some project excercises alongside the course
